@@ -1,6 +1,8 @@
 Skill Swap Platform
  
 A minimal web application that enables users to list the **skills they offer** and request **skills they want** in return. This platform promotes a community-driven learning model by allowing skill-based exchanges between users.
+here is the demo video 
+https://drive.google.com/file/d/1Z45yBRr_e6r2jthE6siFa1MwGJfVhJs9/view?usp=sharing
  
 ---
  
