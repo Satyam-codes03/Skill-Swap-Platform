@@ -47,7 +47,3 @@ npm install
 npm run dev
 
 
-<br>
-here is the demo video
-<br>
-https://drive.google.com/file/d/1Z45yBRr_e6r2jthE6siFa1MwGJfVhJs9/view?usp=sharing
